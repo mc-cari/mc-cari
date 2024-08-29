@@ -12,11 +12,7 @@ Soy Mauricio, estudiante de Magíster en Ciencias de la Computación. Me interes
 
 ---
 
-Además de mis estudios, he estado practicando y participando en diversas competencias de programación, tanto en línea como presenciales, donde he tenido la oportunidad de aprender y modificar algoritmos utilizando C++:
-
-- **TCS CodeVita Season 11 Finals (2024)** India 🇮🇳
-- **International Olympiad in Informatics (2019)** Azerbaiyán 🇦🇿
-
+Además de mis estudios, he estado practicando y participando en diversas competencias de programación, tanto en línea como presenciales, donde he tenido la oportunidad de aprender y modificar algoritmos utilizando C++.
   
 
 
