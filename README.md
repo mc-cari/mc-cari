@@ -1,20 +1,18 @@
-# Hola! 👋
+# Hello! 👋
 
-Soy Mauricio, estudiante de Magíster en Ciencias de la Computación. Me interesan los desafíos técnicos del uso de algoritmos desde la teoría y e implementar aplicaciones desde el backend. Además me gusta leer libros de Star Wars, jugar juegos de mesa 🧩 y soy fan del Age of Empires II (fun fact: herramientas de [open-source](https://siegeengineers.org/) son activamente usadas en su escena de eSports).
+I'm Mauricio, a Master's student in Computer Science. I’m interested in the technical challenges of algorithmic theory and backend application development. I also enjoy reading Star Wars books, playing board games 🧩, and I’m a fan of Age of Empires II (fun fact: open-source tools like those from [open-source](https://siegeengineers.org/) are actively used in its eSports scene).
 
-## Áreas de Interés
+## Areas of Interest
 
-- **Desarrollo Backend y Arquitectura de Software** 🛠️  
-  Me interesa esta área debido a que es el lado más técnico del desarrollo de software.
+- **Backend Development and Software Architecture** 🛠️  
+  I'm drawn to this area because it’s the most technical side of software development.
 
-- **Teoría de Autómatas y Algoritmos** 📚  
-  Me apasiona la investigación en este campo, explorando los fundamentos y aplicaciones de los algoritmos.
-
+- **Automata Theory and Algorithms** 📚  
+  I'm passionate about research in this field, exploring both the foundations and applications of algorithms.
+  
 ---
 
-Además de mis estudios, he estado practicando y participando en diversas competencias de programación, tanto en línea como presenciales, donde he tenido la oportunidad de aprender y modificar algoritmos utilizando C++.
-  
-
+Outside my studies, I've been practicing and participating in various programming competitions, both online and in person, where I've had the chance to learn and modify algorithms using C++.
 
 <div align="center">
 
