@@ -18,5 +18,6 @@ Outside my studies, I've been practicing and participating in various programmin
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mc-cari&count_private=true&show_icons=true&theme=transparent&hide_border=true) | ![Codeforces Stats](https://raw.githubusercontent.com/mc-cari/cf-stats/main/output/light_card.svg#gh-dark-mode-only) |
 |:--:|:--:|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-cari&layout=compact) |
 
 </div>
