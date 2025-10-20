@@ -1,16 +1,9 @@
 # Hello! 👋
 
-I'm Mauricio, a Master's student in Computer Science. I’m interested in the technical challenges of algorithmic theory and backend application development. I also enjoy reading Star Wars books, playing board games 🧩, and I’m a fan of Age of Empires II (fun fact: open-source tools like those from [open-source](https://siegeengineers.org/) are actively used in its eSports scene).
+I'm Mauricio, a Master's student and a Software Engineer with a solid background in computer science. I enjoy solving technical problems, whether it's boosting performance, making sure things can scale, or automating processes.
+My curiosity about technology and its impact on users has led me to work on projects with a diverse tech stack, including interactive maps, smart contracts, and modern web development.
 
-## Areas of Interest
-
-- **Backend Development and Software Architecture** 🛠️  
-  I'm drawn to this area because it’s the most technical side of software development.
-
-- **Automata Theory and Algorithms** 📚  
-  I'm passionate about research in this field, exploring both the foundations and applications of algorithms.
-  
----
+I also enjoy reading Star Wars books, playing board games 🧩, and I’m a fan of Age of Empires II (fun fact: open-source tools like those from [open-source](https://siegeengineers.org/) are actively used in its eSports scene).
 
 Outside my studies, I've been practicing and participating in various programming competitions, both online and in person, where I've had the chance to learn and modify algorithms using C++.
 
